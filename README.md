@@ -1,4 +1,4 @@
-![Frog Pic](/Frogger.png)
+![Frog Pic](/frogger.png)
 # VectrexFrogger
 Why not start "big"?
 
