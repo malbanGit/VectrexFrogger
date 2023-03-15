@@ -16,7 +16,7 @@ You all know about Frogger, don't you?
 I won't go into the story, this will be just a small notice on the
 pecularities of the vectrex version.
 
-##Play area
+## Play area
 
 Due to problems of clipping vectors the play area is not
 the same as the area where objects (logs, cars etc) may move to, it
@@ -33,7 +33,7 @@ be dead.
 If anyone draws an overlay, the edges should be in none transparent colors,
 so that one doesn't see more than the play area.
 
-##Features
+## Features
 
 Many known features of the arcade frogger are implemented,
 as there are:
@@ -61,7 +61,7 @@ known not implemented features:
 * scoring differs from arcade
 * level construction differs from arcade
 
-##How to play
+## How to play
 * Move the frog with the joystick.
 * You can pause the game while playing by pressing button4,
   to unpause any other button...
